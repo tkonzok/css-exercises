@@ -1,0 +1,19 @@
+p {
+    background-color: #fa8072;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.green {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#font24 {
+    font-size: 24px;
+}
